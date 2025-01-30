@@ -1,0 +1,53 @@
+.counterContainer{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    
+    
+}
+
+.counter{
+ 
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.headers{
+   
+    width: 100%;
+    
+    
+}
+
+.buttons{
+    width: 100%;
+   
+    
+}
+
+.btn{
+    color: white;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: larger;
+    
+}
+
+.btn1{
+    background-color: green ;
+}
+.btn2{
+    background-color: blue ;
+}
+.btn3{
+    background-color: red ;
+}

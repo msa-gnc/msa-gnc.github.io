@@ -28,10 +28,10 @@ const NavBar = () => {
 
 
       <NavLink
-       to="/about"
+       to="/counter"
     className="navLink"
        >
-        About
+      Counter
       </NavLink>
 
 
